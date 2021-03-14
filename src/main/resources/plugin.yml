@@ -1,0 +1,8 @@
+name: MelonEnchantment
+author: MelonigeMelone
+main: de.melonigemelone.enchantment.MelonEnchantment
+version: ${project.version}
+description: Enchantment Plugin
+api-version: 1.16
+
+depend: [MelonAPI]
